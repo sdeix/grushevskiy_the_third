@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "^11.30",
+        "illuminate/events": "^11.30"
+    }
+}
